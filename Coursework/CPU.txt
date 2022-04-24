@@ -1,0 +1,12 @@
+CPU
+Pentium G4520
+Intel
+9
+70
+3.6
+CPU
+Celeron G3900
+Intel
+8
+45
+2.8

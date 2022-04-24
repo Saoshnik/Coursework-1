@@ -1,0 +1,12 @@
+GPU
+GeForce GTX 1050 Ti
+EVGA
+10
+155
+1.4
+GPU
+Radeon R9 280 GR8 3G
+DFL
+7
+160
+0.93

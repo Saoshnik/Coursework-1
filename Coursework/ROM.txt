@@ -1,0 +1,12 @@
+ROM
+EZStore HDD
+Mortoni
+20
+50
+500GB
+ROM
+Mega SSD
+Shean
+10
+110
+250MB
